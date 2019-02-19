@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: remote_theme
 ---
 
 ## About Me
