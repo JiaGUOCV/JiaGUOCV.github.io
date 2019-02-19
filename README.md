@@ -1,79 +1,44 @@
-Dr. Jekyll: A scholarly website template.
-===================
+DeerResume
+==========
 
-This Jekyll template is meant for young (or established) scholars who would like to set up a website quickly and have it remain stable in the future.
+最好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF
 
-The template includes a built in bibliography using bibtex format that you can use to update your incredibly long publication list (knock on wood).
+  - 可自行搭建，任意修改页面样式和风格
+  - 免安装，可放置于任何支持静态页面的云和服务器（当然包括GitHub
+  - 在线MarkDown编辑器+实时预览
+  - 在浏览器中实时保存草稿
+  - 支持阅读密码，您可以直接将网址和密码发送，供招聘方在线浏览
+  - 一键生成简单雅致的PDF，供邮件发送及打印
+  
 
-___
 
-## Key Elements
-The template comes with the following features:
+部署指南：→ http://get.ftqq.com/745.get
 
-1. Easily adjust the title, url, and favicon in the `config.yml` file.
-2. Change the "About Me" section, the "Courses" list, and "Contact Me" info in the `_data/settings.yml` file.
-3. A bibliography can be built easily using a `.bib` file and `bibtex`.
-4. Easily create course pages and host files for your classes.
+更好用的在线 Markdown 简历 http://link.ftqq.com/0rsRL
 
----
-## Use
-To use this template, you need to build the site locally. The [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) plugin is not supported by Github.
 
-Here is a brief description of the necessary steps to customize your site:
+教学：《如何写好一份技术简历》 →  http://link.ftqq.com/KWkVX
 
-1. Download the repository.
-2. Update the `config.yml` file with your preferred settings for title, url, etc.
-3. Update the `_data/settings.yml` file with your "About Me" blurb, your course list, and your contact information.
-4. For each course, you can either link to an external site or create a new page. To create a new course page, copy the `temp_course` folder and update the necessary information (add lecture slides, change the front matter in the `index.html` file, change folder names, etc.).
-5. Put any files (e.g. CV, pdf's of articles, etc.) in the `assets/files` folder.
-6. If you would like to change the bibliography style, add your custom `.csl` file to the `assets\bib` folder.
-7. Update the `_mybib.bib` file to include all of your amazing articles.
-8. Change the bio-photo (200 x 220) and the background image (2634 x 1756 ... although you don't necessarily need such a high resolution image).
-9. Update the colors in `assets/css/2-base/_vars.sass`. In particular, `accent-color` is the most used (if not the only...).
+### FAQ
 
-Once the site looks the way you want it, you need to push it to Github. To build the site locally and push the necessary files, do the following (note: this assumes you already have a Github pages site and associated local repository. If not, check out [this page for directions](https://pages.github.com/).):
+如何在没有云端的情况下使用DeerResume？
 
-0. Ensure that your customized DrJekyll folder is ***outside*** of the Github pages repository.
-1. Copy your local github repository to a safe place (because we are going to delete it).
-2. `cd` into your local repository and delete the files:
+- 请在可访问云端的情况下完成MarkDown的编辑，然后复制好简历内容。
+- 修改app.js 注释掉第3行，打开第4行，将数据源切到本地。 
+- 修改data.php 填入标题和内容，并按自己的需要设置阅读密码。
 
-  ```
-  git rm -rf .
-  ```
-3. `cd` into your DrJekyll folder and build it using Jekyll:
-
-  ```
-  jekyll build
-  ```
-4. Using either your GUI or the command line, copy the contents of the `DrJekyll/_site` folder into your local Github Pages repository.
-5. Create an empty file in your local Github Pages repository titled `.nojekyll`.
-6. Follow your usual Github push steps. For me I run the following:
-
-  ```
-  git status
-  git add --all
-  git commit -m "Publishing my sweet website."
-  git push origin master
-  ```
-
-Now, enjoy your handiwork!
-
----
-
-## A Note On The bibliography
-The included sample `.bib` file includes the following bibliography entry:
-
-```
-@article{jekyll1885schizo,
-  title={Home Remedies for Multiple Personality Disorders},
-  author={Jekyll, Henry},
-  year={1885},
-  URL={https://alongsite.com/HOO.pdfLINK:arXiv;https://alongsite.com/BOO.pdfLINK:NBER;/assets/files/paper.pdfLINK:PDF}
-}
-```
-This looks like a typical entry, ***except the URL***. If your paper is hosted in several locations, you can link to all of those places using this line.
-
-The format is `urlLINK:linktext;urlLINK:linktext`, where you need to replace the link `url` and the `linktext` with whatever you would like. Each url needs to be seperated by a semicolon, `;`.
-
-## Tracking
-If you are a self obsessed sociopath or insecure graduate student, like myself, you can easily add analytics by creating a Google Tag Manager account and pasting the container code onto any of the `index.html` pages. Another nifty idea would to be to create an include for analytics, but since the site is quite simple, I'll leave this to you.
+如何在本地修改样式保存PDF？
+- 在 resume.html 中加入如下代码
+   ```
+    <style>
+      @media print {
+        .site-head,.action-bar {
+          display: none;
+        }
+      }
+    </style>
+    ```
+- 在 chrome 中打开网页
+- 右键该简历网页选择打印
+- 目标打印机改成另存为PDF
+- 保存
