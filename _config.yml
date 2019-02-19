@@ -1,6 +1,6 @@
 title: Jia Guo's CV
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -23,4 +23,4 @@ nav:
  - name: "Contact"
    link: "contact"
 
-remote_theme: ankitsultana/researcher@gem
+#remote_theme: ankitsultana/researcher@gem
