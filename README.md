@@ -1,60 +1,60 @@
-# Researcher
+# The Plain
 
-### [Demo Website](http://ankitsultana.com/researcher)
+> The Plain is a minimalist Jekyll theme, ideally designed for your personal blog use. This Jekyll theme provides a minimum distraction so you can focus on writing that matters to you and your readers. This theme is originally inspired from [Leonard Lamprecht's _leo_ theme](https://github.com/leo/leo.github.io).
 
-A clean, single column, monospace resume template built for jekyll
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-4.0-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/the-plain.svg?branch=master)
 
-### Installation
+- **Demo:** https://heiswayi.github.io/the-plain/
 
-Simply fork the repository and edit away.
+![SCREENSHOT](https://i.imgur.com/FITKN1H.png)
 
-#### Installation via remote themes
+## Usage
 
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+### On an unlimited Jekyll host
 
-### Customization
+> **NOTE** This does NOT work on GitHub, see the next section.
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+Put this in your *Gemfile*:
 
-* You can of course remove `contact.md` if you don't want it
+	gem 'the-plain'
 
-* To set the heading, edit the `title` variable in `_config.yml`
+and run `bundle install` to install the plugin.
 
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+Add this to your sites *_config.yml* file:
 
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-```
+	theme: the-plain
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+Then copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+### On GitHub
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+GitHub - for your user account pages or repository gh-pages - only supports a limited set of themes.
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+Therefore, you need to use the 'remote\_theme:' setting instead of 'theme:', which is supported by [a 3rd party plugin](https://github.com/benbalter/jekyll-remote-theme).
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+Put this in your *Gemfile*:
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
+	gem 'jekyll-remote-theme'
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+and run `bundle install` to install the plugin.
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+Add the following to your site's *_config.yml* to activate the plugin and to select this theme:
 
-### License
+	plugins:
+	  - jekyll-remote-theme
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+	remote_theme: heiswayi/the-plain
+
+This will grab the theme directly from the GitHub repo.
+
+Now copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
+
+## Authors
+
+- [**Heiswayi Nrird**](https://heiswayi.nrird.com)
+
+See also the list of [contributors](https://github.com/heiswayi/the-plain/graphs/contributors) who participated in this project.
+
+## License
+
+[MIT](LICENSE)
