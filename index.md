@@ -14,7 +14,7 @@ My research interests include advanced signal processing and vision-based techni
 
 ## Selected Publications
 
-<img src="logo.png" width="100px" style="box-shadow: 4px 4px 8px #888">1. **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443:270-292,2019.
+1. **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443:270-292,2019.
 [[paper](https://www.sciencedirect.com/science/article/pii/S0022460X1830782X)]
 2. **Guo J**, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization. Structural Control and Health Monitoring, 25(12):e2255,2018.
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2255)]
