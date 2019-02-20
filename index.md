@@ -4,11 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
-Welcome! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Welcome! I am currently a final year Ph.D. student at [Takewaki Lab.](http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en), [Kyoto University (KYU)](https://www.kyoto-u.ac.jp/en/), Japan. I have obtained my BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](http://www.civil.tsinghua.edu.cn/en/ce/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/index.html) (THU).
 
 ## Research Interest
 
