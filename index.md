@@ -14,13 +14,13 @@ My research interests include advanced signal processing and vision-based techni
 
 ## Selected Publications
 
-1. **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443: 270-292, 2019.
+1. **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443:270-292,2019.
 [[paper](https://www.sciencedirect.com/science/article/pii/S0022460X1830782X)]
-2. **Guo J**, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization. Structural Control and Health Monitoring, 25(12): e2255, 2018.
+2. **Guo J**, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization. Structural Control and Health Monitoring, 25(12):e2255,2018.
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/stc.2255)]
-3. **Guo J**, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error. Inverse Problems in Science and Engineering: 1-25, 2018.
+3. **Guo J**, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error. Inverse Problems in Science and Engineering: 1-25,2018.
 [[paper](https://www.tandfonline.com/doi/abs/10.1080/17415977.2018.1553965)]
-4. **Guo, J.**, Deng, K., He, M., Zhao, C., & Li, W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering, 22(12): 06017007, 2017.
+4. **Guo J**, Deng K, He M, Zhao C, & Li W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering, 22(12):06017007,2017.
 [[paper](https://ascelibrary.org/doi/full/10.1061/(ASCE)BE.1943-5592.0001155)]
 
 ## Awards
