@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kaku.ka.25x@st.kyoto-u.ac.jp](mailto:kaku.ka.25x@st.kyoto-u.ac.jp), [guoguo142@126.com](mailto:guoguo142@126.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+81-7043879007](tel:++81-7043879007)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> C1-3-391, Katsura campus
 >
-> London
+> Dept of Architecture and Architectural Engineering
 >
-> United Kingdom
+> Nishikyo-ku, Kyoto, Japan
+>
+>615-8540
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
