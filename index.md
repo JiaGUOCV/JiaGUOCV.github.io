@@ -10,7 +10,7 @@ Welcome! I am currently a final year Ph.D. student at [Takewaki Lab.](http://tak
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interests include advanced signal processing and vision-based techniques to structural dynamics, finite element model updating, structural damage identification and their applications, with an emphasis on structural safety and system resilience against natural and man-made hazards. I also have expertise in Structural Health Monitoring of large-scale bridges.  
 
 ## Publications
 
