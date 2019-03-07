@@ -26,6 +26,8 @@ My research interests include advanced signal processing and vision-based techni
 ## Awards
 
 * Japanese Government Scholarship (University-nominated), MEXT of Japan, 2016-2019
+* First Prize of the Science and Technology Award of China Highway & Transportation Society (CHTS), 2017
+* Grand Prize of the Science and Technology Award of China Highway & Transportation Society (CHTS), 2015
 * Tsinghua University Outstanding Master's Thesis (3%), 2012
 * Best Paper Award, the 20th National Conference on Structural Engineering, Ningbo, China, 2011
 * Excellent Teaching Assistant in Structural Mechanics I, II, Tsinghua University, 2011
