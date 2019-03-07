@@ -11,7 +11,7 @@ is_contact: true
 
 ## Mailing Address
 
-> C1-4-391, Katsura campus
+> C1-3-391, Katsura campus
 >
 > Dept of Architecture and Architectural Engineering
 >
