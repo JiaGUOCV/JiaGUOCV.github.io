@@ -3,21 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [kaku.ka.25x@st.kyoto-u.ac.jp](mailto:kaku.ka.25x@st.kyoto-u.ac.jp), [guoguo142@126.com](mailto:guoguo142@126.com)
+* Email: [guo@irides.tohoku.ac.jp](mailto:guo@irides.tohoku.ac.jp)
 
-* Phone: [+81-7043879007](tel:++81-7043879007)
+* Phone/Fax: [+81-22-752-2115](tel:+81-22-752-2115)
 
 ---
 
 ## Mailing Address
 
-> C1-3-391, Katsura campus
+> 〒980-8572
 >
-> Dept of Architecture and Architectural Engineering
+>仙台市青葉区荒巻字青葉468-1-E402
+
+> Aramaki-aza aoba 468-1-E402
 >
-> Nishikyo-ku, Kyoto, Japan
+> Aoba-ku, Sendai, Miyagi 
 >
->615-8540
+> Japan
+>
+>980-8572
 
 ---
-

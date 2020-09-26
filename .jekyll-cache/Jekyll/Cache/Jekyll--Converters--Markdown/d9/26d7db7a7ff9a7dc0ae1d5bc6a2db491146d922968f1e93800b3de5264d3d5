@@ -1,0 +1,64 @@
+I"
+<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="me.jpg" /></p>
+
+<p>Welcome! I am currently an Assistant Professor in <a href="https://irides.tohoku.ac.jp/eng/">International Research Institute of Disaster Science (IRIDeS)</a> of <a href="http://www.tohoku.ac.jp/en/">Tohoku University</a>, working with Prof. <a href="https://sites.google.com/site/ikagolab/">Kohju IKAGO</a>.
+Prior to that, I obtained my Ph.D. degree in the <a href="https://www.ar.t.kyoto-u.ac.jp/en?set_language=en">Dept. of Architecture and Architectural Engineering</a>, <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a> (KYU), supervised by Prof. <a href="http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG">Izuru TAKEWAKI</a>.
+I have obtained my BS (2009) and MSc (2012) in Civil Engineering, with honors, from the <a href="http://www.civil.tsinghua.edu.cn/en/ce/index.html">Dept. of Civil Engineering</a> at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a> (THU), China.</p>
+
+<h2 id="research-interest">Research Interest</h2>
+
+<p>My research interests include new techniques in modelling and control of dynamic structural systems, vision-based sensing, and identification of nonlinear structural systems, with an emphasis on structural safety against natural and man-made hazards. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.</p>
+
+<h2 id="awards">Awards</h2>
+
+<ul>
+  <li>Chinese Government Award for Outstanding Self-financed Students Abroad, 2019</li>
+  <li>Japanese Government Scholarship (University-nominated), MEXT of Japan, 2016-2019</li>
+  <li>First Prize of the Science and Technology Award of China Highway &amp; Transportation Society (CHTS), 2017</li>
+  <li>Grand Prize of the Science and Technology Award of China Highway &amp; Transportation Society (CHTS), 2015</li>
+  <li>Outstanding Master’s Thesis Award, Tsinghua University, 2012</li>
+  <li>Best Paper Award, the 20th National Conference on Structural Engineering, Ningbo, China, 2011</li>
+  <li>Teaching Assistant of Merit, Tsinghua University, 2011</li>
+</ul>
+
+<h2 id="selected-publications">Selected Publications</h2>
+
+<h3 id="2020">2020</h3>
+<ol>
+  <li>Wang L, <strong>Guo J</strong>, Takewaki I. Real-time hysteresis identification in structures based on restoring force reconstruction and Kalman filter[J]. Mechanical Systems and Signal Processing, 2021, 150: 107297.
+[<a href="https://doi.org/10.1016/j.ymssp.2020.107297">paper</a>]
+<em>Free access to this work before November 14, 2020 by clicking <a href="https://authors.elsevier.com/a/1boVm_KChvfYDR">here</a></em>.</li>
+  <li>Xiang Y, Zhang Y J, <strong>Guo J</strong>, et al. Effect of the primary structure on the seismic response of the cable-net façade[J]. Engineering Structures, 2020, 220: 110989.
+[<a href="https://doi.org/10.1016/j.engstruct.2020.110989">paper</a>]</li>
+  <li><strong>Guo J</strong>, Jiao J, Fujita K, Takewaki I. A spectrum-driven damage identification by minimum constitutive relation error and sparse regularization[J]. Mechanical Systems and Signal Processing, 2020, 136: 106496.
+[<a href="https://doi.org/10.1016/j.ymssp.2019.106496">paper</a>]</li>
+</ol>
+
+<h3 id="2019">2019</h3>
+<ol>
+  <li><strong>Guo J</strong>, Jiao J, Fujita K, Takewaki I. Damage identification for frame structures using vision-based measurement[J]. Engineering Structures, 2019, 199: 109634.
+[<a href="https://doi.org/10.1016/j.engstruct.2019.109634">paper</a>]</li>
+  <li><strong>Guo J</strong>, Deng K, Wang L, Takewaki I. Physical-based parametrization and local damage identification for frame type structures using response sensitivity approach in time domain[J]. Structural Control and Health Monitoring, 2019, 26(10): e2412.
+[<a href="https://doi.org/10.1002/stc.2412">paper</a>]</li>
+  <li><strong>Guo J</strong>, Wang L, Takewaki I. Experimental investigation on use of regularization techniques and pre-post measurement changes for structural damage identification[J]. International Journal of Solids and Structures, 2020, 185: 212-221.
+[<a href="https://doi.org/10.1016/j.ijsolstr.2019.08.026">paper</a>]</li>
+</ol>
+
+<h3 id="2018">2018</h3>
+<ol>
+  <li><strong>Guo J</strong>, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443: 270-292, 2019.
+[<a href="https://doi.org/10.1016/j.jsv.2018.11.020">paper</a>]</li>
+  <li><strong>Guo J</strong>, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization. Structural Control and Health Monitoring, 25(12):e2255,2018.
+[<a href="https://doi.org/10.1002/stc.2255">paper</a>]</li>
+  <li><strong>Guo J</strong>, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error. Inverse Problems in Science and Engineering: 1-25,2018.
+[<a href="https://doi.org/10.1080/17415977.2018.1553965">paper</a>]</li>
+</ol>
+
+<h3 id="2017">2017</h3>
+<ol>
+  <li><strong>Guo J</strong>, Deng K, He M, Zhao C, &amp; Li W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering, 22(12):06017007,2017.
+[<a href="https://ascelibrary.org/doi/full/10.1061/(ASCE)BE.1943-5592.0001155">paper</a>]</li>
+</ol>
+:ET
