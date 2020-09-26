@@ -12,7 +12,7 @@ I have obtained my BS (2009) and MSc (2012) in Civil Engineering, with honors, f
 
 ## Research Interest
 
-My research interests include new techniques in modelling and control of dynamic structural systems, vision-based sensing, and identification of nonlinear structural systems, with an emphasis on structural safety against natural and man-made hazards. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.  
+My research interests include new techniques in modelling and control of dynamic structural systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.  
 
 ## Awards
 
