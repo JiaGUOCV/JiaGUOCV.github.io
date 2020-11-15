@@ -27,11 +27,11 @@ My research interests include new techniques in modelling and control of dynamic
 ## Selected Publications
 
 ### 2020
-1. Wang L, **Guo J**, Takewaki I. Real-time hysteresis identification in structures based on restoring force reconstruction and Kalman filter[J]. Mechanical Systems and Signal Processing, 2021, 150: 107297.
+1. **Guo, J**, Xiang Y, Fujita K, Takewaki I. Vision-Based building seismic displacement measurement by stratification of projective rectification using lines[J]. Sensors, 2020, 20(20): 5775.
+[[paper](https://doi.org/10.3390/s20205775)]
+*Free access to this work before November 14, 2020 by clicking [here](https://www.mdpi.com/1424-8220/20/20/5775/pdf)*.
+2. Wang L, **Guo J**, Takewaki I. Real-time hysteresis identification in structures based on restoring force reconstruction and Kalman filter[J]. Mechanical Systems and Signal Processing, 2021, 150: 107297.
 [[paper](https://doi.org/10.1016/j.ymssp.2020.107297)]
-*Free access to this work before November 14, 2020 by clicking [here](https://authors.elsevier.com/a/1boVm_KChvfYDR)*.
-2. Xiang Y, Zhang Y J, **Guo J**, et al. Effect of the primary structure on the seismic response of the cable-net façade[J]. Engineering Structures, 2020, 220: 110989.
-[[paper](https://doi.org/10.1016/j.engstruct.2020.110989)]
 3. **Guo J**, Jiao J, Fujita K, Takewaki I. A spectrum-driven damage identification by minimum constitutive relation error and sparse regularization[J]. Mechanical Systems and Signal Processing, 2020, 136: 106496.
 [[paper](https://doi.org/10.1016/j.ymssp.2019.106496)]
 
