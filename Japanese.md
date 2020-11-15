@@ -36,21 +36,12 @@ layout: default
 ### 所属学会
 * 日本建築学会
 
-### 研究助成金
-* 日本免震構造協会　第12回免震構造・制振構造に関わる研究助成（2020年度）：AIを用いたブラックボックスモデルアプローチによる粘弾性ダンパー構成則モデル化手法（代表）
-* 日本学術振興会　科学研究費補助金（基盤研究(B)）（2020年度～2022年度）：免震機能を有する構造物の過大変位抑制効果を検証する非線形振動台実験の高性能制御（分担）
-
-### 受賞歴
-* 中国政府:国家優秀自費留学生奨学金（賞）, 2019
-* 日本政府:文部科学省奨学金（大学推薦）, 2016-2019
-* 清華大学優秀修士論文賞, 2012
-
 ### 査読論文
 
 ### 2020 ###
 1. **Guo, J**, Xiang Y, Fujita K, Takewaki I. Vision-Based building seismic displacement measurement by stratification of projective rectification using lines[J]. Sensors, 2020, 20(20): 5775.
 [[paper](https://doi.org/10.3390/s20205775)]
-*Free access to this work before November 14, 2020 by clicking [here](https://www.mdpi.com/1424-8220/20/20/5775/pdf)*.
+*Free access to this work by clicking [here](https://www.mdpi.com/1424-8220/20/20/5775/pdf)*.
 2. Wang L, **Guo J**, Takewaki I. Real-time hysteresis identification in structures based on restoring force reconstruction and Kalman filter[J]. Mechanical Systems and Signal Processing, 2021, 150: 107297.
 [[paper](https://doi.org/10.1016/j.ymssp.2020.107297)]
 3. **Guo J**, Jiao J, Fujita K, Takewaki I. A spectrum-driven damage identification by minimum constitutive relation error and sparse regularization[J]. Mechanical Systems and Signal Processing, 2020, 136: 106496.

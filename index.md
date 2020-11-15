@@ -12,24 +12,14 @@ I have obtained my BS (2009) and MSc (2012) in Civil Engineering, with honors, f
 
 ## Research Interest
 
-My research interests include new techniques in modelling and control of dynamic structural systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.  
-
-## Awards
-
-* Chinese Government Award for Outstanding Self-financed Students Abroad, 2019
-* Japanese Government Scholarship (University-nominated), MEXT of Japan, 2016-2019
-* First Prize of the Science and Technology Award of China Highway & Transportation Society (CHTS), 2017
-* Grand Prize of the Science and Technology Award of China Highway & Transportation Society (CHTS), 2015
-* Outstanding Master's Thesis Award, Tsinghua University, 2012
-* Best Paper Award, the 20th National Conference on Structural Engineering, Ningbo, China, 2011
-* Teaching Assistant of Merit, Tsinghua University, 2011
+My research interests include new techniques in modelling and control of dynamic structural systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 ## Selected Publications
 
 ### 2020
 1. **Guo, J**, Xiang Y, Fujita K, Takewaki I. Vision-Based building seismic displacement measurement by stratification of projective rectification using lines[J]. Sensors, 2020, 20(20): 5775.
 [[paper](https://doi.org/10.3390/s20205775)]
-*Free access to this work before November 14, 2020 by clicking [here](https://www.mdpi.com/1424-8220/20/20/5775/pdf)*.
+*Free access to this work by clicking [here](https://www.mdpi.com/1424-8220/20/20/5775/pdf)*.
 2. Wang L, **Guo J**, Takewaki I. Real-time hysteresis identification in structures based on restoring force reconstruction and Kalman filter[J]. Mechanical Systems and Signal Processing, 2021, 150: 107297.
 [[paper](https://doi.org/10.1016/j.ymssp.2020.107297)]
 3. **Guo J**, Jiao J, Fujita K, Takewaki I. A spectrum-driven damage identification by minimum constitutive relation error and sparse regularization[J]. Mechanical Systems and Signal Processing, 2020, 136: 106496.
