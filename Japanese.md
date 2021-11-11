@@ -34,9 +34,20 @@ layout: default
 * 制震（振）免震構造に関する研究（超高層制震建物地震動に対する安全性評価）
 
 ### 所属学会
-* 日本建築学会
+* 日本建築学会、日本計算工学会、日本地震工学会
 
 ### 査読論文
+
+### 2021
+1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
+[[paper](https://doi.org/10.1016/j.ymssp.2021.108572)]
+*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3Cj39~t0Y1Yt)*.
+2. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J]. Engineering Structures, 2022, 251(A): 113546.
+[[paper](https://doi.org/10.1016/j.engstruct.2021.113546)]
+*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3CPW4G4TgTG)*.
+3. Jiao J, **Guo J**,  Fujita K, Takewaki I. Displacement measurement and nonlinear structural
+system identification: A vision-based approach with camera motion correction using planar structures[J]. Structural Control and Health Monitoring, 2021: e2761.
+[[paper](https://doi.org/10.1002/stc.2761)]
 
 ### 2020 ###
 1. **Guo, J**, Xiang Y, Fujita K, Takewaki I. Vision-Based building seismic displacement measurement by stratification of projective rectification using lines[J]. Sensors, 2020, 20(20): 5775.

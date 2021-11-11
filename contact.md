@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [guo@irides.tohoku.ac.jp](mailto:guo@irides.tohoku.ac.jp)
 
-* Phone/Fax: [+81-22-752-2115](tel:+81-22-752-2115)
+
 
 ---
 
@@ -17,7 +17,7 @@ is_contact: true
 
 > Aramaki-aza aoba 468-1-E402
 >
-> Aoba-ku, Sendai, Miyagi 
+> Aoba-ku, Sendai, Miyagi
 >
 > Japan
 >
