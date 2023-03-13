@@ -19,17 +19,17 @@ My research interests include new techniques in modelling and identification of 
 
 ### 2023
 1. **Guo J**, Enokida R, Li D, Ikago K. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning[J]. Earthquake Engineering & Structural Dynamics, 2023.
-[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] (Early View) [[Code](https://github.com/JiaGuoLab/pdhi)]
-2. Enokida R, **Guo J**, Ikago K, Kajiwara K. Nonlinear signal‐based control for shake table experiments with sliding masses[J]. Earthquake Engineering & Structural Dynamics, 2023.
-[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3852)] (Early View)
+[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] [[Code](https://github.com/JiaGuoLab/pdhi)]
+2. Enokida R, Ikago K, **Guo J**, Kajiwara K. Nonlinear signal‐based control for shake table experiments with sliding masses[J]. Earthquake Engineering & Structural Dynamics, 2023.
+[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3852)]
 *Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3852)*.
 
 ### 2022
-1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
+1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167: 108572.
 [[paper](https://doi.org/10.1016/j.ymssp.2021.108572)]
 
 ### 2021
-1. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J]. Engineering Structures, 2022, 251(A): 113546.
+1. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J]. Engineering Structures, 2022, 251: 113546.
 [[paper](https://doi.org/10.1016/j.engstruct.2021.113546)]
 2. Jiao J, **Guo J**,  Fujita K, Takewaki I. Displacement measurement and nonlinear structural
 system identification: A vision-based approach with camera motion correction using planar structures[J]. Structural Control and Health Monitoring, 2021: e2761.
