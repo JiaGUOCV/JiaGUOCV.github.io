@@ -7,15 +7,21 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](http://www.est.kais.kyoto-u.ac.jp/e/index.html) of [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
-Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/). 
+Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/).
 I obtained my Ph.D. degree (2019) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/),
 and BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](http://www.civil.tsinghua.edu.cn/en/ce/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
 
 ## Research Interest
 
-My research interests include new techniques in modelling and control of dynamic systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
+My research interests include new techniques in modelling and control of structural systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 ## Selected Publications
+
+### 2023
+1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
+[[paper](https://doi.org/10.1016/j.ymssp.2021.108572)]
+*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3Cj39~t0Y1Yt)*.
+2. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J].
 
 ### 2021
 1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
