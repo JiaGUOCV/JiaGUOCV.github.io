@@ -7,30 +7,31 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](http://www.est.kais.kyoto-u.ac.jp/e/index.html) of [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
-Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/).
+Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/). 
 I obtained my Ph.D. degree (2019) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/),
-and BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](http://www.civil.tsinghua.edu.cn/en/ce/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
+and BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](https://www.civil.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
 
 ## Research Interest
 
-My research interests include new techniques in modelling and control of structural systems, smart sensors with an emphasis on computer vision-based approach, data-driven computing method, as well as advanced seismic protection. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
+My research interests include new techniques in modelling and identification of dynamic systems, data-driven computing method, earthquake resilient infrastructures as well as smart sensors with an emphasis on computer vision-based approach. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 ## Selected Publications
 
 ### 2023
+1. **Guo J**, Enokida R, Li D, Ikago K. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning[J]. Earthquake Engineering & Structural Dynamics, 2023.
+[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] (Early View) [[Code](https://github.com/JiaGuoLab/pdhi)]
+2. Enokida R, **Guo J**, Ikago K, Kajiwara K. Nonlinear signal‐based control for shake table experiments with sliding masses[J]. Earthquake Engineering & Structural Dynamics, 2023.
+[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3852)] (Early View)
+*Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3852)*.
+
+### 2022
 1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
 [[paper](https://doi.org/10.1016/j.ymssp.2021.108572)]
-*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3Cj39~t0Y1Yt)*.
-2. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J].
 
 ### 2021
-1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167(B): 108572.
-[[paper](https://doi.org/10.1016/j.ymssp.2021.108572)]
-*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3Cj39~t0Y1Yt)*.
-2. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J]. Engineering Structures, 2022, 251(A): 113546.
+1. Xiang Y, **Guo J**, Kishiki S. Analytical approach for vertical floor acceleration of regular RC frames under earthquake excitation[J]. Engineering Structures, 2022, 251(A): 113546.
 [[paper](https://doi.org/10.1016/j.engstruct.2021.113546)]
-*Free access to this work before December 30, 2021 by clicking [here](https://authors.elsevier.com/c/1e3CPW4G4TgTG)*.
-3. Jiao J, **Guo J**,  Fujita K, Takewaki I. Displacement measurement and nonlinear structural
+2. Jiao J, **Guo J**,  Fujita K, Takewaki I. Displacement measurement and nonlinear structural
 system identification: A vision-based approach with camera motion correction using planar structures[J]. Structural Control and Health Monitoring, 2021: e2761.
 [[paper](https://doi.org/10.1002/stc.2761)]
 
