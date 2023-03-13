@@ -2,25 +2,19 @@
 layout: default
 is_contact: true
 ---
-
-* Email: [guo@irides.tohoku.ac.jp](mailto:guo@irides.tohoku.ac.jp)
-
-
-
----
-
 ## Mailing Address
 
-> 〒980-8572
+> 〒606-8502
 >
->仙台市青葉区荒巻字青葉468-1-E402
-
-> Aramaki-aza aoba 468-1-E402
+>京都大学大学院農学研究科地域環境科学専攻
 >
-> Aoba-ku, Sendai, Miyagi
+>京都市左京区北白川追分町
+ 
+>Division of Environmental Science & Technology, Graduate School of Agriculture
+> 
+>Kitashirakawa Oiwakecho, Sakyo-ku, Kyoto, Japan
 >
-> Japan
 >
->980-8572
+>606-8502
 
 ---
