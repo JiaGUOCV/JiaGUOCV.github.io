@@ -7,8 +7,8 @@ layout: default
 <img class="profile-picture" src="me.jpg">
 
 Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](http://www.est.kais.kyoto-u.ac.jp/e/index.html) of [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
-Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/). 
-I obtained my Ph.D. degree (2019) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/),
+Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/).
+I obtained my Ph.D. degree (2019) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/), supervised by [Prof. Izuru Takewaki](http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG),
 and BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](https://www.civil.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
 
 ## Research Interest
