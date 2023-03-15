@@ -41,7 +41,7 @@ layout: default
 
 ### 2023
 1. **Guo J**, Enokida R, Li D, Ikago K. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning[J]. Earthquake Engineering & Structural Dynamics, 2023.
-[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] [[QuickView]([[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] [[Code](https://github.com/JiaGuoLab/pdhi)]
+[[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] [[QuickView](https://onlinelibrary.wiley.com/share/author/2SEQPPGRSGIXGYMJANEN?target=10.1002/eqe.3863)] [[Code](https://github.com/JiaGuoLab/pdhi)]
 2. Enokida R, Ikago K, **Guo J**, Kajiwara K. Nonlinear signal‐based control for shake table experiments with sliding masses[J]. Earthquake Engineering & Structural Dynamics, 2023.
 [[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3852)]
 *Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3852)*.
