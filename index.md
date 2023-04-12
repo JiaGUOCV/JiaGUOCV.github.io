@@ -15,7 +15,9 @@ Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [G
 
 ## Research Interest
 
-My research interests include new techniques in modelling and identification of dynamic systems, data-driven computing method, earthquake resilient infrastructures as well as smart sensors with an emphasis on computer vision-based approach. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
+My research interests include new techniques in modelling and identification of dynamic systems and data-driven computing methods for structures, soil and fluids, with the goal of contributing to disaster prevention and mitigation.
+These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, artificial Intelligence, as well as Smart Sensing technologies.
+I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 ## Selected Publications
 
