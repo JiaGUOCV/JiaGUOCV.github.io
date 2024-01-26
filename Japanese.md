@@ -50,7 +50,7 @@ layout: default
 *Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3852)*.
 3. Enokida R, Ikago K, **Guo J**, Kajiwara K. Performance Examination of Nonlinear Signal-Based Control in Shake Table Experiments with Sliding Structures[J]. Structural Control and Health Monitoring, 2023.
 [[paper](https://doi.org/10.1155/2023/9526244)]
-*Free access to this work by clicking [here](https://www.hindawi.com/journals/schm/2023/9526244/)*.
+*Free access to this work by clicking [here](https://downloads.hindawi.com/journals/schm/2023/9526244.pdf?_gl=1*191gvsh*_ga*MTI5NTcyMTc5MC4xNzAzNjczNTAw*_ga_NF5QFMJT5V*MTcwNjI0ODYwMy4zLjEuMTcwNjI0ODk3NC40LjAuMA..&_ga=2.184328358.160857340.1706248603-1295721790.1703673500)*.
 
 ### 2022
 1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167: 108572.
