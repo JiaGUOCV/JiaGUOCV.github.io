@@ -39,12 +39,18 @@ layout: default
 
 ### 査読論文
 
+### 2024
+1. Shen S D, **Guo J**, Pan P, Cao Y R, Feng J X. Bidirectional seismic performance and design approach of RC infill wall with PVC tubes[J]. Journal of Building Engineering, 2024: 108463. [[paper](https://doi.org/10.1016/j.jobe.2024.108463)]
+
 ### 2023
 1. **Guo J**, Enokida R, Li D, Ikago K. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning[J]. Earthquake Engineering & Structural Dynamics, 2023.
 [[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3863)] [[QuickView](https://onlinelibrary.wiley.com/share/author/2SEQPPGRSGIXGYMJANEN?target=10.1002/eqe.3863)] [[Code](https://github.com/JiaGuoLab/pdhi)]
 2. Enokida R, Ikago K, **Guo J**, Kajiwara K. Nonlinear signal‐based control for shake table experiments with sliding masses[J]. Earthquake Engineering & Structural Dynamics, 2023.
 [[paper](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3852)]
 *Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/eqe.3852)*.
+3. Enokida R, Ikago K, **Guo J**, Kajiwara K. Performance Examination of Nonlinear Signal-Based Control in Shake Table Experiments with Sliding Structures[J]. Structural Control and Health Monitoring, 2023.
+[[paper](https://doi.org/10.1155/2023/9526244)]
+*Free access to this work by clicking [here](https://www.hindawi.com/journals/schm/2023/9526244/)*.
 
 ### 2022
 1. **Guo, J**, Wang L, Fukuda I, Ikago K. Data-driven modeling of general damping systems by *k*-means clustering and two-stage regression[J]. Mechanical Systems and Signal Processing, 2022, 167: 108572.
