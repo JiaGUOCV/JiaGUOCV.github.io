@@ -19,6 +19,8 @@ My research interests include new techniques in modelling and identification of 
 These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, Artificial Intelligence, as well as Smart Sensing technologies.
 I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
+Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.ebook5.net/kyoto-u/visual_book2024_jp/) (125 Solutions for Our Global Society), Page 28.
+
 ## Courses
 - Applied Mechanics (in Japanese)
 - Structural Analysis (in Japanese)

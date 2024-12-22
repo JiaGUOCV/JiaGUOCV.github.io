@@ -34,10 +34,12 @@ layout: default
 * スマートセンシング・モニタリング
 * 農業土木学・地盤工学
 
+京都大学ビジュアルブック[「KyotoU Future Commons」](https://www.kyoto-u.ac.jp/ja/about/public/issue/ku-future-commons)を発行・公開しました (ページ28)。
+
 ### 所属学会
 * 日本建築学会、日本計算工学会、日本地震工学会
 
-## 授業
+### 授業
 + 応用力学
 + 構造解析学
 + 環境地盤工学実験
