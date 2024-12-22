@@ -25,7 +25,6 @@ I also have expertise in Structural Health Monitoring of large-scale bridges and
 - Experimental Soil Mechanics (In Japanese)
 - Reinforced Concrete Design (In Japanese)
 - Geo-Disaster Risk Reduction and Prevention
-- Geo-Disaster Risk Reduction and Prevention
 
 ## Selected Publications
 
