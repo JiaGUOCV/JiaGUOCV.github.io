@@ -51,5 +51,5 @@ E-mail: guo.jia.8x@kyoto-u.ac.jp
 >
 >606-8502
 
-Google Map: [Faculty/Graduate School of Agriculture, Kyoto University](https://maps.app.goo.gl/uGGMuQkCFkYcgR7F7)
+Google Map: [Kyoto University](https://maps.app.goo.gl/uGGMuQkCFkYcgR7F7)
 ---

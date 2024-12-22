@@ -20,11 +20,11 @@ These research topics straddle computational mechanics and engineering science, 
 I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 ## Lectures
-+ Applied Mechanics (In Japanese)
-+ Structural Analysis (In Japanese)
-+ Experimental Soil Mechanics (In Japanese)
-+ Reinforced Concrete Design (In Japanese)
-+ Geo-Disaster Risk Reduction and Prevention
+- Applied Mechanics (In Japanese)
+- Structural Analysis (In Japanese)
+- Experimental Soil Mechanics (In Japanese)
+- Reinforced Concrete Design (In Japanese)
+- Geo-Disaster Risk Reduction and Prevention
 
 ## Selected Publications
 
