@@ -11,7 +11,7 @@ Prior to that, I was an Assistant Professor in [International Research Institute
 I obtained my Ph.D. degree (2019) in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/), supervised by [Prof. Izuru Takewaki](http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG),
 and BS (2009) and MSc (2012) in Civil Engineering, with honors, from the [Dept. of Civil Engineering](https://www.civil.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
 
-Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), and [ORCID](https://orcid.org/0000-0001-9059-9851).
+Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), [Facebook](https://www.facebook.com/profile.php?id=100057568955019), and [ORCID](https://orcid.org/0000-0001-9059-9851).
 
 ## Research Interest
 
