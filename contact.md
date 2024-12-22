@@ -12,7 +12,7 @@ KYU: [Scholarships](https://www.kyoto-u.ac.jp/en/education-campus/procedures/sch
 ## Before Contacting Me (for perspective students)
 
 ### Basic Expectations for Daily Work in the Laboratory
-* Unapproved absences from the lab or meetings may be seen as a lack of academic commitment and could result in withdrawal from the school in serious cases.
+* Continuous unapproved absences from the lab or meetings may be seen as a lack of academic commitment and could result in withdrawal from the school in serious cases.
 * Weekly one-on-one meetings are required and held in person unless in-person attendance is not possible.
 * Social messaging apps like WeChat, LINE, and WhatsApp are not used.
 * Communication is limited to English or Japanese.
