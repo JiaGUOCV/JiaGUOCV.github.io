@@ -37,6 +37,13 @@ layout: default
 ### 所属学会
 * 日本建築学会、日本計算工学会、日本地震工学会
 
+## 授業
++ 応用力学
++ 構造解析学
++ 環境地盤工学実験
++ 施設機能工学演習
++ Geo-Disaster Risk Reduction and Prevention (英語)
+
 ### 査読論文
 
 * Wen W, Zhang C, Hu J, **Guo J**, Zhai C, Zhou B. Automatic monitoring method for seismic response of building structures and equipment based on indoor surveillance cameras[J]. Mechanical Systems and Signal Processing, 2025, 224: 112220. [[paper](https://doi.org/10.1016/j.ymssp.2024.112220)] *Free access to this work by clicking [here](https://authors.elsevier.com/c/1kHXM39~t0jUUt) before February 05, 2025*.

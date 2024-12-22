@@ -19,6 +19,13 @@ My research interests include new techniques in modelling and identification of 
 These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, artificial Intelligence, as well as Smart Sensing technologies.
 I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
+## Lectures
++ Applied Mechanics (In Japanese)
++ Structural Analysis (In Japanese)
++ Experimental Soil Mechanics (In Japanese)
++ Reinforced Concrete Design (In Japanese)
++ Geo-Disaster Risk Reduction and Prevention
+
 ## Selected Publications
 
 * Wen W, Zhang C, Hu J, **Guo J**, Zhai C, Zhou B. Automatic monitoring method for seismic response of building structures and equipment based on indoor surveillance cameras[J]. Mechanical Systems and Signal Processing, 2025, 224: 112220. [[paper](https://doi.org/10.1016/j.ymssp.2024.112220)] *Free access to this work by clicking [here](https://authors.elsevier.com/c/1kHXM39~t0jUUt) before February 05, 2025*.
