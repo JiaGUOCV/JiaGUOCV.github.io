@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com"
-footer_text: "This is a custom-built theme for Jekyll. Please report any issues on GitHub."
+footer_url: ""
+footer_text: "Copyright © Jia GUO 2024"
 
 sass:
     style: compressed
