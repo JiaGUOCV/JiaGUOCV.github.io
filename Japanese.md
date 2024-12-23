@@ -101,5 +101,5 @@ system identification: A vision-based approach with camera motion correction usi
 * **Guo J**, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error. Inverse Problems in Science and Engineering: 1-25,2018.
 [[paper](https://doi.org/10.1080/17415977.2018.1553965)]
 
-* **Guo J**, Deng K, He M, Zhao C, & Li W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering, 22(12):06017007,2017.
+* **Guo J**, Deng K, He M, Zhao C, & Li W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering (ASCE), 22(12):06017007,2017.
 [[paper](https://ascelibrary.org/doi/full/10.1061/(ASCE)BE.1943-5592.0001155)]
