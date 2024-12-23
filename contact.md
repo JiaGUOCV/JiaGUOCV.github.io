@@ -30,7 +30,7 @@ KYU: [Scholarships](https://www.kyoto-u.ac.jp/en/education-campus/procedures/sch
 * Candidates must have obtained their PhD within the past two years.
 
 ### Visiting Students
-* The duration of the stay is flexible, but the student must be dedicated to completing a research project with the intention of publishing as the first author.
+* The length of the stay is up to negotiation, although the student is expected to be dedicated fully to completing a research project for publication as the first author.
 * The student’s current research topic should closely align with the focus of our research team.
 * Visiting students are expected to meet the same daily requirements as other laboratory members.
 
@@ -51,4 +51,4 @@ E-mail: guo.jia.8x@kyoto-u.ac.jp
 >
 >606-8502
 
->Google Map: [Kyoto University](https://maps.app.goo.gl/uGGMuQkCFkYcgR7F7)
+>Google Map: [Our building in Kyoto University](https://maps.app.goo.gl/uGGMuQkCFkYcgR7F7)
