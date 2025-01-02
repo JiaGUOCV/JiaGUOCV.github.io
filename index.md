@@ -8,8 +8,7 @@ layout: default
 
 Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](http://www.est.kais.kyoto-u.ac.jp/e/index.html) of [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
 Prior to that, I was an Assistant Professor in [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/) of [Tohoku University](http://www.tohoku.ac.jp/en/), with [Prof. Kohju Ikago](https://sites.google.com/site/ikagolab/profile).
-I obtained my Ph.D. degree in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/), supervised by [Prof. Izuru Takewaki](http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG),
-and BS and MSc in Civil Engineering, with honors, from the [Dept. of Civil Engineering](https://www.civil.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), China.
+I obtained my Ph.D. degree in the [Dept. of Architecture and Architectural Engineering](https://www.ar.t.kyoto-u.ac.jp/en?set_language=en), [Kyoto University](https://www.kyoto-u.ac.jp/en/), supervised by [Prof. Izuru Takewaki](http://takewaki-lab.archi.kyoto-u.ac.jp/takewaki_tsuji_lab/home.php?lang=ENG), B.S., M.S. in Civil Engineering from the [Dept. of Civil Engineering](https://www.civil.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) (THU), and B.A. in Economics at [Peking University](https://english.pku.edu.cn/), China.
 
 Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), [Facebook](https://www.facebook.com/profile.php?id=100057568955019), and [ORCID](https://orcid.org/0000-0001-9059-9851).
 
