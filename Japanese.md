@@ -47,8 +47,9 @@ layout: default
 + Geo-Disaster Risk Reduction and Prevention (英語)
 
 ### 査読論文
+* Zhang C, Wen W, Zhai C, **Guo J**. Method of extracting structural seismic response from blurred surveillance videos based on line matching technique[J]. Measurement, 2025: 116937. [[paper](https://doi.org/10.1016/j.measurement.2025.116937)] *Free access to this work by clicking [here](https://authors.elsevier.com/c/1kbbqxsQaTvJP) before April 03, 2025*.
 
-* Wen W, Zhang C, Hu J, **Guo J**, Zhai C, Zhou B. Automatic monitoring method for seismic response of building structures and equipment based on indoor surveillance cameras[J]. Mechanical Systems and Signal Processing, 2025, 224: 112220. [[paper](https://doi.org/10.1016/j.ymssp.2024.112220)] *Free access to this work by clicking [here](https://authors.elsevier.com/c/1kHXM39~t0jUUt) before February 05, 2025*.
+* Wen W, Zhang C, Hu J, **Guo J**, Zhai C, Zhou B. Automatic monitoring method for seismic response of building structures and equipment based on indoor surveillance cameras[J]. Mechanical Systems and Signal Processing, 2025, 224: 112220. [[paper](https://doi.org/10.1016/j.ymssp.2024.112220)].
 
 * Shen S D, **Guo J**, Pan P, Cao Y R, Feng J X. Bidirectional seismic performance and design approach of RC infill wall with PVC tubes[J]. Journal of Building Engineering, 2024: 108463. [[paper](https://doi.org/10.1016/j.jobe.2024.108463)]
 
