@@ -28,20 +28,19 @@ Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.eboo
 - Geo-Disaster Risk Reduction and Prevention
 
 ## Selected Publications
-* Pan H, Jiang F, **Guo J**, Deng T, Fu J. Dynamic response reconstruction of high-rise buildings under hazards using a Pyramid-LSTM-Attention network. Engineering Structures, 2026, 349: 121863. [[paper](https://doi.org/10.1016/j.engstruct.2025.121863)]
+* Pan H, Jiang F, **Guo J**, Deng T, Fu J. Dynamic response reconstruction of high-rise buildings under hazards using a Pyramid-LSTM-Attention network[J]. Engineering Structures, 2026, 349: 121863. [[paper](https://doi.org/10.1016/j.engstruct.2025.121863)]
 
-* Pan H, **Guo J**, Enokida R, Ikago K. SIE: Structural identification encoders for self-supervised learning of nonlinear dynamic systems using computer vision with limited physical knowledge. Engineering Structures, 2026, 348: 121796. [[paper](https://doi.org/10.1016/j.engstruct.2025.121796)]
+* Pan H, **Guo J**, Enokida R, Ikago K. SIE: Structural identification encoders for self-supervised learning of nonlinear dynamic systems using computer vision with limited physical knowledge[J]. Engineering Structures, 2026, 348: 121796. [[paper](https://doi.org/10.1016/j.engstruct.2025.121796)]
 
-* Zheng Y, Lee C L, **Guo J**, Shen R, Sun F, Yang J, Calad AS. Improving EFDD with Neural Networks in Damping Identification for Structural Health Monitoring. Sensors, 2025, 25(22): 6929. [[paper](https://doi.org/10.3390/s25226929)]
+* Zheng Y, Lee C L, **Guo J**, Shen R, Sun F, Yang J, Calad AS. Improving EFDD with Neural Networks in Damping Identification for Structural Health Monitoring[J]. Sensors, 2025, 25(22): 6929. [[paper](https://doi.org/10.3390/s25226929)]
 *Free access to this work by clicking [here](https://www.mdpi.com/1424-8220/25/22/6929)*.
 
-* Zheng Y, Lee C L, Shen R, **Guo J**. Revisiting damping identification: Limitations and comparative evaluation under impulse, white noise, and seismic excitations. Frontiers in Built Environment, 2025, 11: 1671758. [[paper](https://doi.org/10.3389/fbuil.2025.1671758)]
+* Zheng Y, Lee C L, Shen R, **Guo J**. Revisiting damping identification: Limitations and comparative evaluation under impulse, white noise, and seismic excitations[J]. Frontiers in Built Environment, 2025, 11: 1671758. [[paper](https://doi.org/10.3389/fbuil.2025.1671758)]
 *Free access to this work by clicking [here](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2025.1671758/full)*.
 
-* Wen, W, Zhang C, Zhai C, **Guo J**, Hu J. A method for automatic monitoring structural earthquake response using surveillance video. Journal of Building Engineering, 2025: 113737. [[paper](https://doi.org/10.1016/j.jobe.2025.113737)]
+* Wen, W, Zhang C, Zhai C, **Guo J**, Hu J. A method for automatic monitoring structural earthquake response using surveillance video[J]. Journal of Building Engineering, 2025: 113737. [[paper](https://doi.org/10.1016/j.jobe.2025.113737)]
 
 * Zhang C, Wen W, Zhai C, **Guo J**. Method of extracting structural seismic response from blurred surveillance videos based on line matching technique[J]. Measurement, 2025: 116937. [[paper](https://doi.org/10.1016/j.measurement.2025.116937)]
-!*Free access to this work by clicking [here](https://authors.elsevier.com/c/1kbbqxsQaTvJP) before April 03, 2025*.
 
 * Wen W, Zhang C, Hu J, **Guo J**, Zhai C, Zhou B. Automatic monitoring method for seismic response of building structures and equipment based on indoor surveillance cameras[J]. Mechanical Systems and Signal Processing, 2025, 224: 112220. [[paper](https://doi.org/10.1016/j.ymssp.2024.112220)]
 
@@ -87,14 +86,14 @@ system identification: A vision-based approach with camera motion correction usi
 * **Guo J**, Deng K, Wang L, Takewaki I. Physical-based parametrization and local damage identification for frame type structures using response sensitivity approach in time domain[J]. Structural Control and Health Monitoring, 2019, 26(10): e2412.
 [[paper](https://doi.org/10.1002/stc.2412)]
 
-* **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization. Journal of Sound and Vibration, 443: 270-292, 2019.
+* **Guo J**, Wang L, Takewaki I. Frequency response-based damage identification in frames by minimum constitutive relation error and sparse regularization[J]. Journal of Sound and Vibration, 443: 270-292, 2019.
 [[paper](https://doi.org/10.1016/j.jsv.2018.11.020)]
 
-* **Guo J**, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization. Structural Control and Health Monitoring, 25(12):e2255,2018.
+* **Guo J**, Wang L, Takewaki I. Modal-based structural damage identification by minimum constitutive relation error and sparse regularization[J]. Structural Control and Health Monitoring, 25(12):e2255,2018.
 [[paper](https://doi.org/10.1002/stc.2255)]
 
-* **Guo J**, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error. Inverse Problems in Science and Engineering: 1-25,2018.
+* **Guo J**, Wang L, Takewaki I. Static damage identification in beams by minimum constitutive relation error[J]. Inverse Problems in Science and Engineering: 1-25,2018.
 [[paper](https://doi.org/10.1080/17415977.2018.1553965)]
 
-* **Guo J**, Deng K, He M, Zhao C, & Li W. Experimental study on the construction stages of an RC closure pour in bridge widening. Journal of Bridge Engineering (ASCE), 22(12):06017007,2017.
+* **Guo J**, Deng K, He M, Zhao C, & Li W. Experimental study on the construction stages of an RC closure pour in bridge widening[J]. Journal of Bridge Engineering (ASCE), 22(12):06017007,2017.
 [[paper](https://ascelibrary.org/doi/full/10.1061/(ASCE)BE.1943-5592.0001155)]
