@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](http://www.est.kais.kyoto-u.ac.jp/e/index.html) at [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
+Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](https://www.est.kais.kyoto-u.ac.jp/est_en.html) at [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
 Prior to that, I served as an Assistant Professor at [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/), [Tohoku University](http://www.tohoku.ac.jp/en/).
 I earned my Ph.D. degree in Architectural Engineering from [Kyoto University](https://www.kyoto-u.ac.jp/en/), along with a B.S. and M.S. in Civil Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) and a B.A. in Economics from [Peking University](https://english.pku.edu.cn/), China.
 
@@ -18,7 +18,7 @@ My research interests include new techniques in modelling and identification of 
 These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, Artificial Intelligence, as well as Smart Sensing technologies.
 I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
-Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.ebook5.net/kyoto-u/visual_book2024_jp/) (125 Solutions for Our Global Society), Page 28.
+Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.ebook5.net/kyoto-u/visual_book2024_jp/) (125 Solutions for Our Global Society), Page 28 and video [Creating Our Future Together: ともに創る未来｜KyotoU Future Commons](https://www.channel.pr.kyoto-u.ac.jp/video/40262).
 
 ## Courses
 - Applied Mechanics (in Japanese)
