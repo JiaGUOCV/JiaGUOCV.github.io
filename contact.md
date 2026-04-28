@@ -4,9 +4,9 @@ is_contact: true
 ---
 ## Application Guide
 
-KYU: [How to apply](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/graduate-degree-programs/how-to-apply) (Graduate School)
+[How to apply](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/graduate-degree-programs/how-to-apply) (Graduate School, Kyoto University)
 
-KYU: [Scholarships](https://www.kyoto-u.ac.jp/en/education-campus/procedures/scholarships)
+About [Scholarships](https://www.kyoto-u.ac.jp/en/education-campus/procedures/scholarships)
 
 
 ## Before Contacting Me (for perspective students)
