@@ -35,6 +35,8 @@ layout: default
 * 農業土木学・地盤工学
 
 京都大学ビジュアルブック[「KyotoU Future Commons」](https://www.kyoto-u.ac.jp/ja/about/public/issue/ku-future-commons)を発行・公開しました (ページ28)。
+ビジュアルブック動画「Creating our future together: ともに創る未来｜KyotoU Future Commons」
+を動画ポータルサイト[「KyotoU Channel」](https://www.channel.pr.kyoto-u.ac.jp/video/40262)に掲載いたしました。
 
 ### 所属学会
 * 日本建築学会、日本計算工学会、地盤工学会
@@ -47,6 +49,12 @@ layout: default
 + Geo-Disaster Risk Reduction and Prevention (英語)
 
 ### 代表論文
+* Teng T, Liu J, Lu Z, **Guo J**, Ikago K, Wang L, Yang D. Calibrating Vaiana–Rosati phenomenological model for generic symmetric/asymmetric hysteretic behaviors by enhanced response sensitivity analysis[J]. Mechanical Systems and Signal Processing, 2026, 253,114286. [[paper](https://doi.org/10.1016/j.ymssp.2026.114286)]
+*Free access to this work before June 14, 2026 by clicking [here](https://authors.elsevier.com/c/1m-8z39~t0r57L)*.
+
+* Tang D, Usami H, Fujita S, Nomura R, Terada K, Ohno S, **Guo J**, Sakuraba M, Nojima K, Moriguchi, S. Rapid City‐Scale Earthquake Assessment by Combining Numerical Simulation and Sparse Sensing[J]. Earthquake Spectra, 2026, 42(2): e70052. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/esp4.70052)]
+*Free access to this work by clicking [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/esp4.70052)*.
+
 * Pan H, Jiang F, **Guo J**, Deng T, Fu J. Dynamic response reconstruction of high-rise buildings under hazards using a Pyramid-LSTM-Attention network[J]. Engineering Structures, 2026, 349: 121863. [[paper](https://doi.org/10.1016/j.engstruct.2025.121863)]
 
 * Pan H, **Guo J**, Enokida R, Ikago K. SIE: Structural identification encoders for self-supervised learning of nonlinear dynamic systems using computer vision with limited physical knowledge[J]. Engineering Structures, 2026, 348: 121796. [[paper](https://doi.org/10.1016/j.engstruct.2025.121796)]
