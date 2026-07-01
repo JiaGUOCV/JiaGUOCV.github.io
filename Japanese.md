@@ -14,6 +14,16 @@ layout: default
 >
 >[准教授](http://www.agrifacility.kais.kyoto-u.ac.jp/staff/guo/index.html)
 
+### 特集号（Special Issue）
+
+Civil Engineering Sciences（CESci、AAAS/Scienceとの提携誌 Science Partner Journal）にて、特集号 ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) のGuest Editor（ゲストエディター）を務めております。
+
+構造物の点検・モニタリングに関する新しいセンシング技術やモニタリング手法についての原著論文・レビュー論文を募集しております。
+
+**⏰ 論文投稿締切：2026年10月31日**
+
+[詳細・投稿はこちら »](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring)
+
 ### 学歴
 * 2009年 7月 清華大学(中国)土木工学科卒業
 * 2012年 7月 清華大学(中国)土木工学専攻修士課程修了

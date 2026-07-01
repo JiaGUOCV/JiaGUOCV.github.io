@@ -12,6 +12,16 @@ I earned my Ph.D. degree in Architectural Engineering from [Kyoto University](ht
 
 Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), [Facebook](https://www.facebook.com/profile.php?id=100057568955019), and [ORCID](https://orcid.org/0000-0001-9059-9851).
 
+## Special Issue
+
+I am serving as a **Guest Editor** for the Special Issue ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) in **Civil Engineering Sciences (CESci)**, a Science Partner Journal published in association with *Science*/AAAS.
+
+We welcome original research and review articles on novel sensing, inspection, and monitoring technologies for civil infrastructure.
+
+**⏰ Submission deadline: October 31, 2026**
+
+[Learn more & submit your manuscript »](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring)
+
 ## Research Interest
 
 My research interests include new techniques in modelling and identification of dynamic systems and data-driven computing methods for structures, soil and fluids, with the goal of contributing to disaster prevention and mitigation.
