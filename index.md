@@ -14,7 +14,7 @@ Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [G
 
 ## Special Issue
 
-I am serving as a **Guest Editor** for the Special Issue ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) in **Civil Engineering Sciences (CESci)**, a Science Partner Journal published in association with *Science*/AAAS.
+I am serving as a **Guest Editor** for the Special Issue ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) in **Civil Engineering Sciences (CESci)**, a Science Partner Journal published in association with *Science*/AAAS (American Association for the Advancement of Science).
 
 We welcome original research and review articles on novel sensing, inspection, and monitoring technologies for civil infrastructure.
 
