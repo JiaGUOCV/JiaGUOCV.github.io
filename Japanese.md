@@ -16,9 +16,11 @@ layout: default
 
 ### 特集号（Special Issue）
 
-Civil Engineering Sciences（CESci、AAAS/Scienceとの提携誌 Science Partner Journal）にて、特集号 ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) のGuest Editor（ゲストエディター）を務めております。
+Civil Engineering Sciences（CESci）は、AAAS（米国科学振興協会）発行の *Science* 誌との提携誌 Science Partner Journal です。この度、特集号 ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) のGuest Editor（ゲストエディター）を務めております。
 
 構造物の点検・モニタリングに関する新しいセンシング技術やモニタリング手法についての原著論文・レビュー論文を募集しております。
+
+現在、本特集号への投稿は**論文掲載費（APC）が免除**されます。
 
 **⏰ 論文投稿締切：2026年10月31日**
 
