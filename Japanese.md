@@ -22,7 +22,7 @@ Civil Engineering Sciences（CESci）は、AAAS（米国科学振興協会）発
 
 現在、本特集号への投稿は**論文掲載費（APC）が免除**されます。
 
-**⏰ 論文投稿締切：2026年10月31日**
+**⏰ 論文投稿締切：2026年12月31日**
 
 [詳細・投稿はこちら »](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring)
 

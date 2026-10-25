@@ -18,7 +18,7 @@ I am serving as a **Guest Editor** for the Special Issue ["Advancement in Struct
 
 We welcome original research and review articles on novel sensing, inspection, and monitoring technologies for civil infrastructure.
 
-**⏰ Submission deadline: October 31, 2026**
+**⏰ Submission deadline: December 31, 2026**
 
 [Learn more & submit your manuscript »](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring)
 
