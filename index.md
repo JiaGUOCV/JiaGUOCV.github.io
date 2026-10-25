@@ -24,9 +24,7 @@ We welcome original research and review articles on novel sensing, inspection, a
 
 ## Research Interest
 
-My research interests include new techniques in modelling and identification of dynamic systems and data-driven computing methods for structures, soil and fluids, with the goal of contributing to disaster prevention and mitigation.
-These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, Artificial Intelligence, as well as Smart Sensing technologies.
-I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
+My overarching research vision is anchored in **AI for Disaster Science**, where I aim to harness the power of artificial intelligence to revolutionize hazard prediction and urban resilience. Guided by this vision, my research interests focus on new techniques in modelling and identification of dynamic systems and data-driven computing methods for structures, soil and fluids, with the goal of contributing to disaster prevention and mitigation. These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, Artificial Intelligence, as well as Smart Sensing technologies. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.ebook5.net/kyoto-u/visual_book2024_jp/) (125 Solutions for Our Global Society), Page 28, and video [Creating Our Future Together: ともに創る未来｜KyotoU Future Commons](https://www.channel.pr.kyoto-u.ac.jp/video/40262).
 
