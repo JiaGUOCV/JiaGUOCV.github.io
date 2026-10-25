@@ -1,6 +1,14 @@
 @import "vars";
 
 .content {
+
+    p {
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
+        -webkit-hyphens: auto;
+    }
+
     a:hover {
         text-decoration: underline;
     }
