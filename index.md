@@ -12,6 +12,8 @@ I earned my Ph.D. degree in Architectural Engineering from [Kyoto University](ht
 
 Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), [Facebook](https://www.facebook.com/profile.php?id=100057568955019), and [ORCID](https://orcid.org/0000-0001-9059-9851).
 
+[KU Geo-Consortium](https://ku-geoconso.kuciv.kyoto-u.ac.jp/): An industry-academia collaboration platform uniting Kyoto University's geo-engineering laboratories to advance innovative research and practical solutions.
+
 ## Special Issue
 
 I am serving as a **Guest Editor** for the Special Issue ["Advancement in Structural Inspection and Health Monitoring"](https://spj.science.org/page/cesci/si/advancement-structural-inspection-health-monitoring) in **Civil Engineering Sciences (CESci)**, a Science Partner Journal published in association with *Science*/AAAS (American Association for the Advancement of Science).

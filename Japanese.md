@@ -50,6 +50,8 @@ Civil Engineering Sciences（CESci）は、AAAS（米国科学振興協会）発
 ビジュアルブック動画「Creating our future together: ともに創る未来｜KyotoU Future Commons」
 を動画ポータルサイト[「KyotoU Channel」](https://www.channel.pr.kyoto-u.ac.jp/video/40262)に掲載いたしました。
 
+[KUジオコンソーシアム](https://ku-geoconso.kuciv.kyoto-u.ac.jp/): 京都大学の地盤系研究室が集結し、革新的な研究と産学連携を推進するプラットフォームです。
+
 ### 所属学会
 * 日本建築学会、日本計算工学会、地盤工学会
 
