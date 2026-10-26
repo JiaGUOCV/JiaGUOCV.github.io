@@ -6,13 +6,11 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](https://www.est.kais.kyoto-u.ac.jp/est_en.html) at [Kyoto University](https://www.kyoto-u.ac.jp/en) (KYU), Japan.
+Welcome! I am currently an Associate Professor in [Division of Environmental Science & Technology](https://www.est.kais.kyoto-u.ac.jp/est_en.html) at [Kyoto University](https://www.kyoto-u.ac.jp/en) (KU), Japan.
 Prior to that, I served as an Assistant Professor at [International Research Institute of Disaster Science (IRIDeS)](https://irides.tohoku.ac.jp/eng/), [Tohoku University](http://www.tohoku.ac.jp/en/).
 I earned my Ph.D. degree in Architectural Engineering from [Kyoto University](https://www.kyoto-u.ac.jp/en/), along with a B.S. and M.S. in Civil Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm) and a B.A. in Economics from [Peking University](https://english.pku.edu.cn/), China.
 
 Find more @ [ReasearchGate](https://www.researchgate.net/profile/Jia-Guo-63), [Github](https://github.com/JiaGuoLab), [Facebook](https://www.facebook.com/profile.php?id=100057568955019), and [ORCID](https://orcid.org/0000-0001-9059-9851).
-
-[KU Geo-Consortium](https://ku-geoconso.kuciv.kyoto-u.ac.jp/): An industry-academia collaboration platform uniting Kyoto University's geo-engineering laboratories to advance innovative research and practical solutions.
 
 ## Special Issue
 
@@ -29,6 +27,8 @@ We welcome original research and review articles on novel sensing, inspection, a
 My overarching research vision is anchored in **AI for Disaster Science**, where I aim to harness the power of artificial intelligence to revolutionize hazard prediction and urban resilience. Guided by this vision, my research interests focus on new techniques in modelling and identification of dynamic systems and data-driven computing methods for structures, soil and fluids, with the goal of contributing to disaster prevention and mitigation. These research topics straddle computational mechanics and engineering science, combined with knowledge of Bayesian Inference, Artificial Intelligence, as well as Smart Sensing technologies. I also have expertise in Structural Health Monitoring of large-scale bridges and high-rise buildings.
 
 Find more @ Kyoto University Visual Book [KyotoU Future Commons](https://my.ebook5.net/kyoto-u/visual_book2024_jp/) (125 Solutions for Our Global Society), Page 28, and video [Creating Our Future Together: ともに創る未来｜KyotoU Future Commons](https://www.channel.pr.kyoto-u.ac.jp/video/40262).
+
+[KU Geo-Consortium](https://ku-geoconso.kuciv.kyoto-u.ac.jp/): An industry-academia collaboration platform uniting Kyoto University's geo-engineering laboratories to advance innovative research and practical solutions.
 
 ## Courses
 - Applied Mechanics (in Japanese)
